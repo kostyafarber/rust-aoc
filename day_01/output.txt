@@ -1,0 +1,2001 @@
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 2 and second digit is: 9
+Sum is: 11
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 7 and second digit is: 9
+Sum is: 16
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 7 and second digit is: 9
+Sum is: 16
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 3 and second digit is: 5
+Sum is: 8
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 8 and second digit is: 6
+Sum is: 14
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 3 and second digit is: 5
+Sum is: 8
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 5 and second digit is: 7
+Sum is: 12
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 2 and second digit is: 5
+Sum is: 7
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 6 and second digit is: 6
+Sum is: 12
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 3 and second digit is: 3
+Sum is: 6
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 1 and second digit is: 1
+Sum is: 2
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 2 and second digit is: 9
+Sum is: 11
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 2 and second digit is: 5
+Sum is: 7
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 2 and second digit is: 9
+Sum is: 11
+first digit is: 6 and second digit is: 6
+Sum is: 12
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 6 and second digit is: 3
+Sum is: 9
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 1 and second digit is: 1
+Sum is: 2
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 1 and second digit is: 6
+Sum is: 7
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 3 and second digit is: 5
+Sum is: 8
+first digit is: 1 and second digit is: 8
+Sum is: 9
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 2 and second digit is: 5
+Sum is: 7
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 1 and second digit is: 1
+Sum is: 2
+first digit is: 5 and second digit is: 8
+Sum is: 13
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 5 and second digit is: 7
+Sum is: 12
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 6 and second digit is: 3
+Sum is: 9
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 7 and second digit is: 9
+Sum is: 16
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 2 and second digit is: 9
+Sum is: 11
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 1 and second digit is: 7
+Sum is: 8
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 3 and second digit is: 3
+Sum is: 6
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 1 and second digit is: 7
+Sum is: 8
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 1 and second digit is: 8
+Sum is: 9
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 6 and second digit is: 6
+Sum is: 12
+first digit is: 3 and second digit is: 5
+Sum is: 8
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 5 and second digit is: 7
+Sum is: 12
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 5 and second digit is: 8
+Sum is: 13
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 8
+Sum is: 12
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 7 and second digit is: 9
+Sum is: 16
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 5 and second digit is: 7
+Sum is: 12
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 4 and second digit is: 5
+Sum is: 9
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 8 and second digit is: 6
+Sum is: 14
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 6 and second digit is: 6
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 6 and second digit is: 1
+Sum is: 7
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 4 and second digit is: 2
+Sum is: 6
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 9 and second digit is: 1
+Sum is: 10
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 6
+Sum is: 7
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 8
+Sum is: 9
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 8 and second digit is: 6
+Sum is: 14
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 2 and second digit is: 5
+Sum is: 7
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 3 and second digit is: 3
+Sum is: 6
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 3 and second digit is: 2
+Sum is: 5
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 1 and second digit is: 6
+Sum is: 7
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 8 and second digit is: 6
+Sum is: 14
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 3 and second digit is: 3
+Sum is: 6
+first digit is: 5 and second digit is: 8
+Sum is: 13
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 5 and second digit is: 4
+Sum is: 9
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 8 and second digit is: 6
+Sum is: 14
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 8 and second digit is: 7
+Sum is: 15
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 6 and second digit is: 8
+Sum is: 14
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 1 and second digit is: 8
+Sum is: 9
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 2 and second digit is: 3
+Sum is: 5
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 8 and second digit is: 5
+Sum is: 13
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 2 and second digit is: 1
+Sum is: 3
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 6 and second digit is: 2
+Sum is: 8
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 1 and second digit is: 7
+Sum is: 8
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 9 and second digit is: 4
+Sum is: 13
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 1
+Sum is: 6
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 4
+Sum is: 7
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 5 and second digit is: 3
+Sum is: 8
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 2 and second digit is: 8
+Sum is: 10
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 6 and second digit is: 3
+Sum is: 9
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 1 and second digit is: 1
+Sum is: 2
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 2 and second digit is: 2
+Sum is: 4
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 3 and second digit is: 8
+Sum is: 11
+first digit is: 7 and second digit is: 2
+Sum is: 9
+first digit is: 1 and second digit is: 0
+Sum is: 2
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 3 and second digit is: 1
+Sum is: 4
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 9 and second digit is: 2
+Sum is: 11
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 3 and second digit is: 5
+Sum is: 8
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 3
+Sum is: 12
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 8 and second digit is: 9
+Sum is: 17
+first digit is: 1 and second digit is: 7
+Sum is: 8
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 7 and second digit is: 7
+Sum is: 14
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 5
+Sum is: 14
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 6 and second digit is: 0
+Sum is: 12
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 7 and second digit is: 8
+Sum is: 15
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 7 and second digit is: 4
+Sum is: 11
+first digit is: 3 and second digit is: 9
+Sum is: 12
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 8 and second digit is: 1
+Sum is: 9
+first digit is: 3 and second digit is: 3
+Sum is: 6
+first digit is: 3 and second digit is: 6
+Sum is: 9
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 1 and second digit is: 2
+Sum is: 3
+first digit is: 2 and second digit is: 5
+Sum is: 7
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 6 and second digit is: 3
+Sum is: 9
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 5 and second digit is: 9
+Sum is: 14
+first digit is: 5 and second digit is: 5
+Sum is: 10
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 8 and second digit is: 2
+Sum is: 10
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 4 and second digit is: 1
+Sum is: 5
+first digit is: 7 and second digit is: 0
+Sum is: 14
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 4 and second digit is: 7
+Sum is: 11
+first digit is: 5 and second digit is: 7
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 5 and second digit is: 0
+Sum is: 10
+first digit is: 1 and second digit is: 8
+Sum is: 9
+first digit is: 9 and second digit is: 0
+Sum is: 18
+first digit is: 4 and second digit is: 6
+Sum is: 10
+first digit is: 1 and second digit is: 4
+Sum is: 5
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 5 and second digit is: 8
+Sum is: 13
+first digit is: 5 and second digit is: 6
+Sum is: 11
+first digit is: 8 and second digit is: 0
+Sum is: 16
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 4 and second digit is: 0
+Sum is: 8
+first digit is: 2 and second digit is: 4
+Sum is: 6
+first digit is: 8 and second digit is: 4
+Sum is: 12
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 6 and second digit is: 9
+Sum is: 15
+first digit is: 1 and second digit is: 9
+Sum is: 10
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 8 and second digit is: 8
+Sum is: 16
+first digit is: 7 and second digit is: 1
+Sum is: 8
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 6 and second digit is: 5
+Sum is: 11
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 2 and second digit is: 6
+Sum is: 8
+first digit is: 6 and second digit is: 7
+Sum is: 13
+first digit is: 8 and second digit is: 3
+Sum is: 11
+first digit is: 4 and second digit is: 4
+Sum is: 8
+first digit is: 7 and second digit is: 6
+Sum is: 13
+first digit is: 9 and second digit is: 8
+Sum is: 17
+first digit is: 2 and second digit is: 0
+Sum is: 4
+first digit is: 9 and second digit is: 9
+Sum is: 18
+first digit is: 4 and second digit is: 3
+Sum is: 7
+first digit is: 1 and second digit is: 3
+Sum is: 4
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 1 and second digit is: 5
+Sum is: 6
+first digit is: 5 and second digit is: 2
+Sum is: 7
+first digit is: 7 and second digit is: 5
+Sum is: 12
+first digit is: 2 and second digit is: 7
+Sum is: 9
+first digit is: 2 and second digit is: 9
+Sum is: 11
+first digit is: 4 and second digit is: 9
+Sum is: 13
+first digit is: 1 and second digit is: 6
+Sum is: 7
+first digit is: 3 and second digit is: 0
+Sum is: 6
+first digit is: 7 and second digit is: 3
+Sum is: 10
+first digit is: 9 and second digit is: 6
+Sum is: 15
+first digit is: 6 and second digit is: 4
+Sum is: 10
+first digit is: 9 and second digit is: 7
+Sum is: 16
+first digit is: 1 and second digit is: 7
+Sum is: 8
+first digit is: 3 and second digit is: 7
+Sum is: 10
+first digit is: 4 and second digit is: 1
+Sum is: 5
+The calibration sum for the document is: 10043
