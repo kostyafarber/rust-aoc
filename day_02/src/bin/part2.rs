@@ -22,9 +22,9 @@ fn process_line(line: &str) -> i32 {
         let pairs: Vec<&str> = draw.split(", ").collect();
 
         for pair in pairs {
-            let digit_colour_pair: Vec<&str> = pair.split_whitespace().collect();
-            let number = digit_colour_pair[0].parse::<i32>().unwrap();
-            let colour = digit_colour_pair[1];
+            let number_colour_pair: Vec<&str> = pair.split_whitespace().collect();
+            let number = number_colour_pair[0].parse::<i32>().unwrap();
+            let colour = number_colour_pair[1];
             let max_colour = min_possible_colours.get(colour).unwrap();
 
             if number > *max_colour {
