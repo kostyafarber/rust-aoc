@@ -10,16 +10,6 @@ The minimum number of cubes to make a game possible will be:
 
 use std::collections::HashMap;
 
-fn get_game_id(line: &str) -> i32 {
-    let idx_colon = line.find(":").unwrap();
-    let idx_space = line.find(" ").unwrap();
-
-    let id = &line[idx_space + 1..idx_colon];
-    let id = id.parse::<i32>().unwrap();
-
-    return id;
-}
-
 fn process_line(line: &str) -> i32 {
     let idx_colon = line.find(":").unwrap();
     let line = &line[idx_colon + 2..];
