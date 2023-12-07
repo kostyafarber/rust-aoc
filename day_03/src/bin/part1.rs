@@ -32,7 +32,6 @@ impl Puzzle {
             down: (self.grid.len()) as i32,
         };
         if x <= bounds.left || x >= bounds.right || y < bounds.up || y >= bounds.down {
-            // println!("{x}, {y} not in bounds");
             return false;
         }
         return true;
@@ -100,9 +99,7 @@ fn main() {
 
             if !c.is_digit(10) || j == puzzle.grid.len() - 1 {
                 if add {
-                    print!("adding {number} to {cum_sum}, ");
                     cum_sum += number;
-                    print!("sum is {cum_sum}\n");
                     add = false;
                 }
                 if in_digit {
@@ -112,7 +109,6 @@ fn main() {
             }
         }
         number = 0;
-        println!();
         println!();
     }
     println!("Sum of parts are: {cum_sum}");
