@@ -1,0 +1,1825 @@
+Line 0
+
+-1, 12 not in bounds
+-1, 13 not in bounds
+-1, 11 not in bounds
+-1, 13 not in bounds
+-1, 14 not in bounds
+-1, 12 not in bounds
+-1, 14 not in bounds
+-1, 15 not in bounds
+-1, 13 not in bounds
+-1, 25 not in bounds
+-1, 26 not in bounds
+-1, 24 not in bounds
+-1, 27 not in bounds
+-1, 28 not in bounds
+-1, 26 not in bounds
+adding 784 to 0, sum is 784
+-1, 32 not in bounds
+-1, 33 not in bounds
+-1, 31 not in bounds
+-1, 33 not in bounds
+-1, 34 not in bounds
+-1, 32 not in bounds
+adding 578 to 784, sum is 1362
+-1, 37 not in bounds
+-1, 38 not in bounds
+-1, 36 not in bounds
+-1, 38 not in bounds
+-1, 39 not in bounds
+-1, 37 not in bounds
+adding 802 to 1362, sum is 2164
+-1, 46 not in bounds
+-1, 47 not in bounds
+-1, 45 not in bounds
+-1, 47 not in bounds
+-1, 48 not in bounds
+-1, 46 not in bounds
+-1, 78 not in bounds
+-1, 79 not in bounds
+-1, 77 not in bounds
+-1, 79 not in bounds
+-1, 80 not in bounds
+-1, 78 not in bounds
+-1, 80 not in bounds
+-1, 81 not in bounds
+-1, 79 not in bounds
+-1, 82 not in bounds
+-1, 83 not in bounds
+-1, 81 not in bounds
+-1, 83 not in bounds
+-1, 84 not in bounds
+-1, 82 not in bounds
+-1, 84 not in bounds
+-1, 85 not in bounds
+-1, 83 not in bounds
+-1, 99 not in bounds
+-1, 100 not in bounds
+-1, 98 not in bounds
+-1, 101 not in bounds
+-1, 102 not in bounds
+-1, 100 not in bounds
+adding 177 to 2164, sum is 2341
+-1, 123 not in bounds
+-1, 124 not in bounds
+-1, 122 not in bounds
+-1, 124 not in bounds
+-1, 125 not in bounds
+-1, 123 not in bounds
+adding 369 to 2341, sum is 2710
+
+
+Line 1
+
+adding 939 to 2710, sum is 3649
+adding 524 to 3649, sum is 4173
+adding 90 to 4173, sum is 4263
+adding 76 to 4263, sum is 4339
+adding 615 to 4339, sum is 4954
+adding 961 to 4954, sum is 5915
+
+
+Line 2
+
+adding 951 to 5915, sum is 6866
+adding 736 to 6866, sum is 7602
+adding 955 to 7602, sum is 8557
+adding 258 to 8557, sum is 8815
+adding 253 to 8815, sum is 9068
+adding 776 to 9068, sum is 9844
+adding 600 to 9844, sum is 10444
+adding 274 to 10444, sum is 10718
+
+
+Line 3
+
+3, -1 not in bounds
+2, -1 not in bounds
+4, -1 not in bounds
+adding 152 to 10718, sum is 10870
+adding 78 to 10870, sum is 10948
+adding 671 to 10948, sum is 11619
+adding 575 to 11619, sum is 12194
+adding 214 to 12194, sum is 12408
+adding 519 to 12408, sum is 12927
+adding 787 to 12927, sum is 13714
+adding 739 to 13714, sum is 14453
+
+
+Line 4
+
+adding 514 to 14453, sum is 14967
+adding 155 to 14967, sum is 15122
+adding 807 to 15122, sum is 15929
+adding 516 to 15929, sum is 16445
+adding 23 to 16445, sum is 16468
+adding 5 to 16468, sum is 16473
+adding 250 to 16473, sum is 16723
+adding 531 to 16723, sum is 17254
+adding 71 to 17254, sum is 17325
+
+
+Line 5
+
+adding 69 to 17325, sum is 17394
+adding 785 to 17394, sum is 18179
+
+
+Line 6
+
+adding 908 to 18179, sum is 19087
+adding 166 to 19087, sum is 19253
+adding 242 to 19253, sum is 19495
+adding 825 to 19495, sum is 20320
+adding 19 to 20320, sum is 20339
+adding 148 to 20339, sum is 20487
+adding 822 to 20487, sum is 21309
+adding 127 to 21309, sum is 21436
+adding 971 to 21436, sum is 22407
+adding 206 to 22407, sum is 22613
+adding 540 to 22613, sum is 23153
+adding 753 to 23153, sum is 23906
+
+
+Line 7
+
+adding 111 to 23906, sum is 24017
+adding 635 to 24017, sum is 24652
+adding 222 to 24652, sum is 24874
+adding 286 to 24874, sum is 25160
+adding 823 to 25160, sum is 25983
+adding 630 to 25983, sum is 26613
+
+
+Line 8
+
+adding 821 to 26613, sum is 27434
+adding 424 to 27434, sum is 27858
+adding 303 to 27858, sum is 28161
+adding 322 to 28161, sum is 28483
+adding 311 to 28483, sum is 28794
+adding 156 to 28794, sum is 28950
+adding 786 to 28950, sum is 29736
+adding 91 to 29736, sum is 29827
+adding 620 to 29827, sum is 30447
+adding 406 to 30447, sum is 30853
+adding 187 to 30853, sum is 31040
+adding 865 to 31040, sum is 31905
+
+
+Line 9
+
+adding 975 to 31905, sum is 32880
+adding 649 to 32880, sum is 33529
+adding 417 to 33529, sum is 33946
+adding 39 to 33946, sum is 33985
+
+
+Line 10
+
+adding 546 to 33985, sum is 34531
+adding 640 to 34531, sum is 35171
+adding 246 to 35171, sum is 35417
+adding 253 to 35417, sum is 35670
+adding 690 to 35670, sum is 36360
+adding 526 to 36360, sum is 36886
+10, 140 not in bounds
+9, 140 not in bounds
+11, 140 not in bounds
+
+
+Line 11
+
+adding 435 to 36886, sum is 37321
+adding 571 to 37321, sum is 37892
+adding 121 to 37892, sum is 38013
+adding 532 to 38013, sum is 38545
+adding 726 to 38545, sum is 39271
+adding 683 to 39271, sum is 39954
+
+
+Line 12
+
+adding 173 to 39954, sum is 40127
+adding 568 to 40127, sum is 40695
+adding 624 to 40695, sum is 41319
+adding 190 to 41319, sum is 41509
+adding 542 to 41509, sum is 42051
+adding 464 to 42051, sum is 42515
+adding 519 to 42515, sum is 43034
+adding 144 to 43034, sum is 43178
+adding 652 to 43178, sum is 43830
+adding 926 to 43830, sum is 44756
+
+
+Line 13
+
+adding 592 to 44756, sum is 45348
+adding 78 to 45348, sum is 45426
+adding 537 to 45426, sum is 45963
+adding 303 to 45963, sum is 46266
+adding 200 to 46266, sum is 46466
+
+
+Line 14
+
+adding 780 to 46466, sum is 47246
+adding 716 to 47246, sum is 47962
+adding 858 to 47962, sum is 48820
+adding 775 to 48820, sum is 49595
+adding 587 to 49595, sum is 50182
+adding 314 to 50182, sum is 50496
+adding 374 to 50496, sum is 50870
+adding 375 to 50870, sum is 51245
+adding 777 to 51245, sum is 52022
+adding 677 to 52022, sum is 52699
+adding 394 to 52699, sum is 53093
+adding 512 to 53093, sum is 53605
+
+
+Line 15
+
+adding 287 to 53605, sum is 53892
+adding 255 to 53892, sum is 54147
+adding 431 to 54147, sum is 54578
+adding 104 to 54578, sum is 54682
+adding 803 to 54682, sum is 55485
+adding 844 to 55485, sum is 56329
+
+
+Line 16
+
+adding 875 to 56329, sum is 57204
+adding 920 to 57204, sum is 58124
+adding 615 to 58124, sum is 58739
+adding 556 to 58739, sum is 59295
+adding 488 to 59295, sum is 59783
+adding 308 to 59783, sum is 60091
+adding 888 to 60091, sum is 60979
+adding 522 to 60979, sum is 61501
+adding 511 to 61501, sum is 62012
+
+
+Line 17
+
+adding 688 to 62012, sum is 62700
+adding 778 to 62700, sum is 63478
+adding 410 to 63478, sum is 63888
+adding 322 to 63888, sum is 64210
+adding 234 to 64210, sum is 64444
+adding 692 to 64444, sum is 65136
+adding 583 to 65136, sum is 65719
+adding 240 to 65719, sum is 65959
+adding 800 to 65959, sum is 66759
+
+
+Line 18
+
+adding 844 to 66759, sum is 67603
+adding 683 to 67603, sum is 68286
+adding 341 to 68286, sum is 68627
+adding 637 to 68627, sum is 69264
+adding 768 to 69264, sum is 70032
+adding 80 to 70032, sum is 70112
+
+
+Line 19
+
+adding 312 to 70112, sum is 70424
+adding 113 to 70424, sum is 70537
+adding 858 to 70537, sum is 71395
+adding 427 to 71395, sum is 71822
+adding 685 to 71822, sum is 72507
+adding 211 to 72507, sum is 72718
+adding 336 to 72718, sum is 73054
+adding 502 to 73054, sum is 73556
+
+
+Line 20
+
+adding 151 to 73556, sum is 73707
+adding 293 to 73707, sum is 74000
+adding 454 to 74000, sum is 74454
+adding 63 to 74454, sum is 74517
+adding 39 to 74517, sum is 74556
+adding 831 to 74556, sum is 75387
+
+
+Line 21
+
+adding 677 to 75387, sum is 76064
+adding 165 to 76064, sum is 76229
+adding 104 to 76229, sum is 76333
+adding 145 to 76333, sum is 76478
+adding 444 to 76478, sum is 76922
+adding 767 to 76922, sum is 77689
+adding 975 to 77689, sum is 78664
+adding 659 to 78664, sum is 79323
+adding 352 to 79323, sum is 79675
+adding 844 to 79675, sum is 80519
+adding 160 to 80519, sum is 80679
+
+
+Line 22
+
+adding 967 to 80679, sum is 81646
+adding 116 to 81646, sum is 81762
+adding 866 to 81762, sum is 82628
+adding 404 to 82628, sum is 83032
+adding 659 to 83032, sum is 83691
+adding 293 to 83691, sum is 83984
+
+
+Line 23
+
+adding 801 to 83984, sum is 84785
+adding 553 to 84785, sum is 85338
+adding 623 to 85338, sum is 85961
+adding 567 to 85961, sum is 86528
+adding 816 to 86528, sum is 87344
+adding 994 to 87344, sum is 88338
+adding 510 to 88338, sum is 88848
+adding 547 to 88848, sum is 89395
+
+
+Line 24
+
+adding 609 to 89395, sum is 90004
+adding 783 to 90004, sum is 90787
+adding 848 to 90787, sum is 91635
+adding 511 to 91635, sum is 92146
+adding 718 to 92146, sum is 92864
+adding 116 to 92864, sum is 92980
+24, 140 not in bounds
+23, 140 not in bounds
+25, 140 not in bounds
+
+
+Line 25
+
+25, -1 not in bounds
+24, -1 not in bounds
+26, -1 not in bounds
+adding 356 to 92980, sum is 93336
+adding 810 to 93336, sum is 94146
+adding 721 to 94146, sum is 94867
+adding 244 to 94867, sum is 95111
+adding 315 to 95111, sum is 95426
+adding 605 to 95426, sum is 96031
+adding 665 to 96031, sum is 96696
+adding 411 to 96696, sum is 97107
+
+
+Line 26
+
+adding 956 to 97107, sum is 98063
+adding 523 to 98063, sum is 98586
+adding 622 to 98586, sum is 99208
+adding 322 to 99208, sum is 99530
+adding 703 to 99530, sum is 100233
+adding 888 to 100233, sum is 101121
+adding 714 to 101121, sum is 101835
+
+
+Line 27
+
+adding 896 to 101835, sum is 102731
+adding 580 to 102731, sum is 103311
+adding 146 to 103311, sum is 103457
+adding 327 to 103457, sum is 103784
+adding 766 to 103784, sum is 104550
+adding 93 to 104550, sum is 104643
+adding 482 to 104643, sum is 105125
+adding 327 to 105125, sum is 105452
+adding 494 to 105452, sum is 105946
+adding 978 to 105946, sum is 106924
+
+
+Line 28
+
+adding 701 to 106924, sum is 107625
+adding 429 to 107625, sum is 108054
+adding 895 to 108054, sum is 108949
+
+
+Line 29
+
+adding 561 to 108949, sum is 109510
+adding 517 to 109510, sum is 110027
+adding 994 to 110027, sum is 111021
+adding 248 to 111021, sum is 111269
+adding 596 to 111269, sum is 111865
+adding 196 to 111865, sum is 112061
+adding 701 to 112061, sum is 112762
+adding 217 to 112762, sum is 112979
+adding 160 to 112979, sum is 113139
+adding 265 to 113139, sum is 113404
+adding 471 to 113404, sum is 113875
+adding 76 to 113875, sum is 113951
+adding 509 to 113951, sum is 114460
+adding 15 to 114460, sum is 114475
+adding 245 to 114475, sum is 114720
+
+
+Line 30
+
+adding 615 to 114720, sum is 115335
+adding 801 to 115335, sum is 116136
+adding 837 to 116136, sum is 116973
+adding 661 to 116973, sum is 117634
+adding 707 to 117634, sum is 118341
+adding 613 to 118341, sum is 118954
+adding 495 to 118954, sum is 119449
+adding 959 to 119449, sum is 120408
+
+
+Line 31
+
+adding 107 to 120408, sum is 120515
+adding 853 to 120515, sum is 121368
+adding 808 to 121368, sum is 122176
+adding 249 to 122176, sum is 122425
+adding 160 to 122425, sum is 122585
+31, 140 not in bounds
+30, 140 not in bounds
+32, 140 not in bounds
+
+
+Line 32
+
+adding 549 to 122585, sum is 123134
+adding 137 to 123134, sum is 123271
+adding 288 to 123271, sum is 123559
+adding 759 to 123559, sum is 124318
+adding 961 to 124318, sum is 125279
+adding 788 to 125279, sum is 126067
+adding 846 to 126067, sum is 126913
+adding 920 to 126913, sum is 127833
+adding 774 to 127833, sum is 128607
+
+
+Line 33
+
+adding 850 to 128607, sum is 129457
+adding 636 to 129457, sum is 130093
+adding 104 to 130093, sum is 130197
+adding 204 to 130197, sum is 130401
+adding 192 to 130401, sum is 130593
+adding 387 to 130593, sum is 130980
+adding 382 to 130980, sum is 131362
+adding 436 to 131362, sum is 131798
+adding 682 to 131798, sum is 132480
+adding 532 to 132480, sum is 133012
+
+
+Line 34
+
+adding 893 to 133012, sum is 133905
+adding 660 to 133905, sum is 134565
+adding 334 to 134565, sum is 134899
+adding 505 to 134899, sum is 135404
+adding 732 to 135404, sum is 136136
+
+
+Line 35
+
+adding 35 to 136136, sum is 136171
+adding 18 to 136171, sum is 136189
+adding 970 to 136189, sum is 137159
+adding 752 to 137159, sum is 137911
+adding 567 to 137911, sum is 138478
+adding 258 to 138478, sum is 138736
+adding 829 to 138736, sum is 139565
+adding 358 to 139565, sum is 139923
+adding 464 to 139923, sum is 140387
+adding 189 to 140387, sum is 140576
+
+
+Line 36
+
+adding 676 to 140576, sum is 141252
+adding 319 to 141252, sum is 141571
+adding 222 to 141571, sum is 141793
+adding 559 to 141793, sum is 142352
+adding 604 to 142352, sum is 142956
+adding 687 to 142956, sum is 143643
+adding 16 to 143643, sum is 143659
+adding 492 to 143659, sum is 144151
+adding 376 to 144151, sum is 144527
+
+
+Line 37
+
+adding 157 to 144527, sum is 144684
+adding 909 to 144684, sum is 145593
+adding 266 to 145593, sum is 145859
+adding 971 to 145859, sum is 146830
+adding 211 to 146830, sum is 147041
+adding 885 to 147041, sum is 147926
+
+
+Line 38
+
+adding 284 to 147926, sum is 148210
+adding 167 to 148210, sum is 148377
+adding 83 to 148377, sum is 148460
+adding 408 to 148460, sum is 148868
+adding 290 to 148868, sum is 149158
+adding 538 to 149158, sum is 149696
+adding 84 to 149696, sum is 149780
+adding 885 to 149780, sum is 150665
+adding 575 to 150665, sum is 151240
+adding 511 to 151240, sum is 151751
+adding 481 to 151751, sum is 152232
+
+
+Line 39
+
+adding 770 to 152232, sum is 153002
+adding 844 to 153002, sum is 153846
+adding 599 to 153846, sum is 154445
+adding 457 to 154445, sum is 154902
+adding 861 to 154902, sum is 155763
+adding 779 to 155763, sum is 156542
+adding 897 to 156542, sum is 157439
+adding 520 to 157439, sum is 157959
+
+
+Line 40
+
+adding 972 to 157959, sum is 158931
+adding 527 to 158931, sum is 159458
+adding 844 to 159458, sum is 160302
+adding 26 to 160302, sum is 160328
+adding 957 to 160328, sum is 161285
+adding 787 to 161285, sum is 162072
+adding 759 to 162072, sum is 162831
+
+
+Line 41
+
+adding 530 to 162831, sum is 163361
+adding 396 to 163361, sum is 163757
+adding 670 to 163757, sum is 164427
+adding 503 to 164427, sum is 164930
+adding 689 to 164930, sum is 165619
+adding 486 to 165619, sum is 166105
+adding 558 to 166105, sum is 166663
+adding 522 to 166663, sum is 167185
+adding 629 to 167185, sum is 167814
+
+
+Line 42
+
+adding 96 to 167814, sum is 167910
+adding 320 to 167910, sum is 168230
+adding 972 to 168230, sum is 169202
+adding 776 to 169202, sum is 169978
+adding 265 to 169978, sum is 170243
+adding 53 to 170243, sum is 170296
+42, 140 not in bounds
+41, 140 not in bounds
+43, 140 not in bounds
+
+
+Line 43
+
+adding 265 to 170296, sum is 170561
+adding 48 to 170561, sum is 170609
+adding 736 to 170609, sum is 171345
+adding 771 to 171345, sum is 172116
+adding 85 to 172116, sum is 172201
+adding 360 to 172201, sum is 172561
+adding 705 to 172561, sum is 173266
+adding 501 to 173266, sum is 173767
+adding 685 to 173767, sum is 174452
+
+
+Line 44
+
+adding 705 to 174452, sum is 175157
+adding 648 to 175157, sum is 175805
+adding 780 to 175805, sum is 176585
+adding 13 to 176585, sum is 176598
+adding 898 to 176598, sum is 177496
+adding 282 to 177496, sum is 177778
+adding 478 to 177778, sum is 178256
+
+
+Line 45
+
+adding 186 to 178256, sum is 178442
+adding 369 to 178442, sum is 178811
+adding 327 to 178811, sum is 179138
+adding 14 to 179138, sum is 179152
+adding 472 to 179152, sum is 179624
+adding 942 to 179624, sum is 180566
+adding 817 to 180566, sum is 181383
+adding 611 to 181383, sum is 181994
+adding 66 to 181994, sum is 182060
+adding 236 to 182060, sum is 182296
+
+
+Line 46
+
+adding 308 to 182296, sum is 182604
+adding 226 to 182604, sum is 182830
+adding 573 to 182830, sum is 183403
+adding 85 to 183403, sum is 183488
+adding 9 to 183488, sum is 183497
+adding 801 to 183497, sum is 184298
+adding 217 to 184298, sum is 184515
+adding 237 to 184515, sum is 184752
+
+
+Line 47
+
+adding 728 to 184752, sum is 185480
+adding 267 to 185480, sum is 185747
+adding 634 to 185747, sum is 186381
+adding 979 to 186381, sum is 187360
+adding 14 to 187360, sum is 187374
+adding 364 to 187374, sum is 187738
+
+
+Line 48
+
+adding 213 to 187738, sum is 187951
+adding 468 to 187951, sum is 188419
+adding 446 to 188419, sum is 188865
+adding 647 to 188865, sum is 189512
+adding 822 to 189512, sum is 190334
+adding 819 to 190334, sum is 191153
+adding 469 to 191153, sum is 191622
+adding 70 to 191622, sum is 191692
+adding 37 to 191692, sum is 191729
+
+
+Line 49
+
+adding 143 to 191729, sum is 191872
+adding 762 to 191872, sum is 192634
+adding 649 to 192634, sum is 193283
+adding 123 to 193283, sum is 193406
+adding 902 to 193406, sum is 194308
+adding 67 to 194308, sum is 194375
+adding 939 to 194375, sum is 195314
+adding 793 to 195314, sum is 196107
+
+
+Line 50
+
+adding 982 to 196107, sum is 197089
+adding 266 to 197089, sum is 197355
+adding 622 to 197355, sum is 197977
+adding 672 to 197977, sum is 198649
+
+
+Line 51
+
+adding 797 to 198649, sum is 199446
+adding 608 to 199446, sum is 200054
+adding 173 to 200054, sum is 200227
+adding 111 to 200227, sum is 200338
+adding 219 to 200338, sum is 200557
+adding 252 to 200557, sum is 200809
+adding 438 to 200809, sum is 201247
+adding 726 to 201247, sum is 201973
+adding 902 to 201973, sum is 202875
+adding 25 to 202875, sum is 202900
+
+
+Line 52
+
+adding 863 to 202900, sum is 203763
+adding 805 to 203763, sum is 204568
+adding 9 to 204568, sum is 204577
+adding 107 to 204577, sum is 204684
+adding 151 to 204684, sum is 204835
+adding 234 to 204835, sum is 205069
+adding 422 to 205069, sum is 205491
+adding 995 to 205491, sum is 206486
+adding 866 to 206486, sum is 207352
+
+
+Line 53
+
+adding 670 to 207352, sum is 208022
+adding 544 to 208022, sum is 208566
+adding 311 to 208566, sum is 208877
+adding 943 to 208877, sum is 209820
+adding 167 to 209820, sum is 209987
+adding 695 to 209987, sum is 210682
+
+
+Line 54
+
+adding 508 to 210682, sum is 211190
+adding 278 to 211190, sum is 211468
+adding 78 to 211468, sum is 211546
+adding 459 to 211546, sum is 212005
+adding 922 to 212005, sum is 212927
+adding 201 to 212927, sum is 213128
+adding 513 to 213128, sum is 213641
+adding 518 to 213641, sum is 214159
+adding 985 to 214159, sum is 215144
+adding 476 to 215144, sum is 215620
+
+
+Line 55
+
+adding 556 to 215620, sum is 216176
+adding 905 to 216176, sum is 217081
+adding 341 to 217081, sum is 217422
+adding 683 to 217422, sum is 218105
+adding 732 to 218105, sum is 218837
+adding 753 to 218837, sum is 219590
+adding 331 to 219590, sum is 219921
+adding 342 to 219921, sum is 220263
+adding 591 to 220263, sum is 220854
+adding 972 to 220854, sum is 221826
+
+
+Line 56
+
+adding 833 to 221826, sum is 222659
+adding 566 to 222659, sum is 223225
+adding 460 to 223225, sum is 223685
+adding 621 to 223685, sum is 224306
+adding 836 to 224306, sum is 225142
+
+
+Line 57
+
+adding 627 to 225142, sum is 225769
+adding 912 to 225769, sum is 226681
+adding 49 to 226681, sum is 226730
+adding 289 to 226730, sum is 227019
+adding 910 to 227019, sum is 227929
+adding 737 to 227929, sum is 228666
+adding 645 to 228666, sum is 229311
+adding 977 to 229311, sum is 230288
+adding 159 to 230288, sum is 230447
+adding 707 to 230447, sum is 231154
+adding 104 to 231154, sum is 231258
+adding 644 to 231258, sum is 231902
+adding 872 to 231902, sum is 232774
+adding 453 to 232774, sum is 233227
+
+
+Line 58
+
+adding 287 to 233227, sum is 233514
+adding 375 to 233514, sum is 233889
+adding 723 to 233889, sum is 234612
+adding 256 to 234612, sum is 234868
+adding 361 to 234868, sum is 235229
+adding 184 to 235229, sum is 235413
+
+
+Line 59
+
+adding 231 to 235413, sum is 235644
+adding 187 to 235644, sum is 235831
+adding 8 to 235831, sum is 235839
+adding 569 to 235839, sum is 236408
+adding 138 to 236408, sum is 236546
+adding 963 to 236546, sum is 237509
+adding 899 to 237509, sum is 238408
+adding 571 to 238408, sum is 238979
+adding 836 to 238979, sum is 239815
+adding 349 to 239815, sum is 240164
+
+
+Line 60
+
+60, -1 not in bounds
+59, -1 not in bounds
+61, -1 not in bounds
+adding 546 to 240164, sum is 240710
+adding 29 to 240710, sum is 240739
+adding 885 to 240739, sum is 241624
+adding 20 to 241624, sum is 241644
+adding 95 to 241644, sum is 241739
+adding 660 to 241739, sum is 242399
+adding 470 to 242399, sum is 242869
+
+
+Line 61
+
+adding 568 to 242869, sum is 243437
+adding 178 to 243437, sum is 243615
+adding 313 to 243615, sum is 243928
+adding 19 to 243928, sum is 243947
+adding 724 to 243947, sum is 244671
+adding 338 to 244671, sum is 245009
+adding 880 to 245009, sum is 245889
+adding 996 to 245889, sum is 246885
+adding 84 to 246885, sum is 246969
+
+
+Line 62
+
+adding 253 to 246969, sum is 247222
+adding 893 to 247222, sum is 248115
+adding 520 to 248115, sum is 248635
+
+
+Line 63
+
+adding 747 to 248635, sum is 249382
+adding 877 to 249382, sum is 250259
+adding 990 to 250259, sum is 251249
+adding 45 to 251249, sum is 251294
+adding 604 to 251294, sum is 251898
+adding 152 to 251898, sum is 252050
+adding 275 to 252050, sum is 252325
+adding 931 to 252325, sum is 253256
+
+
+Line 64
+
+adding 26 to 253256, sum is 253282
+adding 128 to 253282, sum is 253410
+adding 753 to 253410, sum is 254163
+adding 374 to 254163, sum is 254537
+adding 522 to 254537, sum is 255059
+adding 835 to 255059, sum is 255894
+adding 838 to 255894, sum is 256732
+adding 344 to 256732, sum is 257076
+adding 222 to 257076, sum is 257298
+adding 602 to 257298, sum is 257900
+
+
+Line 65
+
+adding 12 to 257900, sum is 257912
+adding 717 to 257912, sum is 258629
+adding 966 to 258629, sum is 259595
+adding 734 to 259595, sum is 260329
+adding 486 to 260329, sum is 260815
+adding 634 to 260815, sum is 261449
+adding 431 to 261449, sum is 261880
+65, 140 not in bounds
+64, 140 not in bounds
+66, 140 not in bounds
+
+
+Line 66
+
+66, -1 not in bounds
+65, -1 not in bounds
+67, -1 not in bounds
+adding 645115 to 261880, sum is 906995
+adding 388 to 906995, sum is 907383
+adding 670 to 907383, sum is 908053
+adding 251 to 908053, sum is 908304
+adding 666 to 908304, sum is 908970
+adding 887 to 908970, sum is 909857
+adding 18 to 909857, sum is 909875
+adding 532 to 909875, sum is 910407
+adding 661 to 910407, sum is 911068
+adding 685 to 911068, sum is 911753
+adding 947 to 911753, sum is 912700
+
+
+Line 67
+
+adding 977 to 912700, sum is 913677
+adding 308 to 913677, sum is 913985
+adding 63 to 913985, sum is 914048
+adding 194 to 914048, sum is 914242
+adding 886 to 914242, sum is 915128
+adding 543 to 915128, sum is 915671
+adding 419 to 915671, sum is 916090
+
+
+Line 68
+
+adding 489 to 916090, sum is 916579
+adding 496 to 916579, sum is 917075
+adding 933 to 917075, sum is 918008
+adding 91 to 918008, sum is 918099
+adding 558 to 918099, sum is 918657
+adding 669 to 918657, sum is 919326
+adding 475 to 919326, sum is 919801
+adding 501 to 919801, sum is 920302
+
+
+Line 69
+
+adding 737 to 920302, sum is 921039
+adding 807 to 921039, sum is 921846
+adding 545 to 921846, sum is 922391
+adding 873 to 922391, sum is 923264
+adding 763 to 923264, sum is 924027
+adding 864 to 924027, sum is 924891
+adding 152 to 924891, sum is 925043
+
+
+Line 70
+
+adding 553 to 925043, sum is 925596
+adding 623 to 925596, sum is 926219
+adding 681 to 926219, sum is 926900
+adding 835 to 926900, sum is 927735
+adding 669 to 927735, sum is 928404
+adding 530 to 928404, sum is 928934
+adding 402 to 928934, sum is 929336
+adding 538 to 929336, sum is 929874
+
+
+Line 71
+
+adding 334 to 929874, sum is 930208
+adding 186 to 930208, sum is 930394
+adding 977 to 930394, sum is 931371
+adding 82 to 931371, sum is 931453
+adding 950 to 931453, sum is 932403
+adding 985 to 932403, sum is 933388
+71, 140 not in bounds
+70, 140 not in bounds
+72, 140 not in bounds
+
+
+Line 72
+
+adding 751 to 933388, sum is 934139
+adding 847 to 934139, sum is 934986
+adding 347 to 934986, sum is 935333
+adding 213 to 935333, sum is 935546
+adding 168 to 935546, sum is 935714
+adding 820 to 935714, sum is 936534
+adding 211 to 936534, sum is 936745
+adding 150 to 936745, sum is 936895
+
+
+Line 73
+
+adding 520 to 936895, sum is 937415
+adding 630 to 937415, sum is 938045
+adding 193 to 938045, sum is 938238
+adding 597 to 938238, sum is 938835
+adding 266 to 938835, sum is 939101
+adding 744 to 939101, sum is 939845
+adding 950 to 939845, sum is 940795
+adding 584 to 940795, sum is 941379
+
+
+Line 74
+
+adding 947 to 941379, sum is 942326
+adding 903 to 942326, sum is 943229
+adding 889 to 943229, sum is 944118
+adding 693 to 944118, sum is 944811
+adding 365 to 944811, sum is 945176
+adding 846 to 945176, sum is 946022
+adding 655 to 946022, sum is 946677
+
+
+Line 75
+
+adding 609 to 946677, sum is 947286
+adding 478 to 947286, sum is 947764
+adding 597 to 947764, sum is 948361
+adding 469 to 948361, sum is 948830
+adding 721 to 948830, sum is 949551
+adding 267 to 949551, sum is 949818
+adding 872 to 949818, sum is 950690
+
+
+Line 76
+
+adding 997 to 950690, sum is 951687
+adding 975 to 951687, sum is 952662
+adding 419 to 952662, sum is 953081
+adding 630 to 953081, sum is 953711
+adding 646 to 953711, sum is 954357
+adding 939 to 954357, sum is 955296
+adding 865 to 955296, sum is 956161
+adding 933 to 956161, sum is 957094
+adding 805 to 957094, sum is 957899
+adding 676 to 957899, sum is 958575
+
+
+Line 77
+
+adding 102 to 958575, sum is 958677
+adding 544 to 958677, sum is 959221
+adding 984 to 959221, sum is 960205
+adding 258 to 960205, sum is 960463
+adding 526 to 960463, sum is 960989
+adding 473 to 960989, sum is 961462
+adding 932 to 961462, sum is 962394
+adding 247 to 962394, sum is 962641
+adding 955 to 962641, sum is 963596
+
+
+Line 78
+
+adding 553 to 963596, sum is 964149
+adding 517 to 964149, sum is 964666
+adding 600 to 964666, sum is 965266
+adding 344 to 965266, sum is 965610
+
+
+Line 79
+
+adding 970 to 965610, sum is 966580
+adding 280 to 966580, sum is 966860
+adding 782 to 966860, sum is 967642
+adding 486 to 967642, sum is 968128
+
+
+Line 80
+
+adding 604 to 968128, sum is 968732
+adding 997 to 968732, sum is 969729
+adding 274 to 969729, sum is 970003
+adding 682 to 970003, sum is 970685
+adding 673 to 970685, sum is 971358
+adding 156 to 971358, sum is 971514
+adding 831 to 971514, sum is 972345
+adding 392 to 972345, sum is 972737
+adding 228 to 972737, sum is 972965
+adding 814 to 972965, sum is 973779
+adding 145 to 973779, sum is 973924
+adding 835 to 973924, sum is 974759
+adding 222 to 974759, sum is 974981
+adding 570 to 974981, sum is 975551
+
+
+Line 81
+
+adding 694 to 975551, sum is 976245
+adding 157 to 976245, sum is 976402
+adding 848 to 976402, sum is 977250
+adding 246 to 977250, sum is 977496
+adding 447 to 977496, sum is 977943
+adding 259 to 977943, sum is 978202
+adding 381 to 978202, sum is 978583
+adding 54 to 978583, sum is 978637
+
+
+Line 82
+
+adding 433 to 978637, sum is 979070
+adding 594 to 979070, sum is 979664
+adding 184 to 979664, sum is 979848
+adding 743 to 979848, sum is 980591
+adding 987 to 980591, sum is 981578
+adding 649 to 981578, sum is 982227
+adding 941 to 982227, sum is 983168
+
+
+Line 83
+
+adding 97 to 983168, sum is 983265
+adding 386 to 983265, sum is 983651
+adding 344 to 983651, sum is 983995
+adding 871 to 983995, sum is 984866
+
+
+Line 84
+
+adding 186 to 984866, sum is 985052
+adding 937 to 985052, sum is 985989
+adding 528 to 985989, sum is 986517
+adding 179 to 986517, sum is 986696
+adding 976 to 986696, sum is 987672
+adding 405 to 987672, sum is 988077
+adding 522 to 988077, sum is 988599
+adding 65 to 988599, sum is 988664
+
+
+Line 85
+
+adding 893 to 988664, sum is 989557
+adding 72 to 989557, sum is 989629
+adding 719 to 989629, sum is 990348
+adding 104 to 990348, sum is 990452
+adding 731 to 990452, sum is 991183
+adding 31 to 991183, sum is 991214
+adding 93 to 991214, sum is 991307
+adding 274 to 991307, sum is 991581
+adding 41 to 991581, sum is 991622
+adding 348 to 991622, sum is 991970
+
+
+Line 86
+
+adding 855 to 991970, sum is 992825
+adding 879 to 992825, sum is 993704
+adding 950 to 993704, sum is 994654
+adding 342 to 994654, sum is 994996
+adding 771 to 994996, sum is 995767
+adding 546 to 995767, sum is 996313
+
+
+Line 87
+
+adding 526 to 996313, sum is 996839
+adding 943 to 996839, sum is 997782
+adding 124 to 997782, sum is 997906
+adding 839 to 997906, sum is 998745
+adding 161 to 998745, sum is 998906
+adding 558 to 998906, sum is 999464
+
+
+Line 88
+
+adding 131 to 999464, sum is 999595
+adding 665 to 999595, sum is 1000260
+adding 266 to 1000260, sum is 1000526
+adding 732 to 1000526, sum is 1001258
+adding 949 to 1001258, sum is 1002207
+adding 31 to 1002207, sum is 1002238
+adding 754 to 1002238, sum is 1002992
+adding 932 to 1002992, sum is 1003924
+
+
+Line 89
+
+adding 169 to 1003924, sum is 1004093
+adding 889 to 1004093, sum is 1004982
+adding 271 to 1004982, sum is 1005253
+adding 613 to 1005253, sum is 1005866
+adding 194 to 1005866, sum is 1006060
+adding 107 to 1006060, sum is 1006167
+adding 142 to 1006167, sum is 1006309
+adding 551 to 1006309, sum is 1006860
+adding 925 to 1006860, sum is 1007785
+adding 56 to 1007785, sum is 1007841
+
+
+Line 90
+
+adding 281 to 1007841, sum is 1008122
+adding 750 to 1008122, sum is 1008872
+adding 563 to 1008872, sum is 1009435
+adding 848 to 1009435, sum is 1010283
+adding 477 to 1010283, sum is 1010760
+adding 655 to 1010760, sum is 1011415
+adding 674 to 1011415, sum is 1012089
+
+
+Line 91
+
+adding 312 to 1012089, sum is 1012401
+adding 716 to 1012401, sum is 1013117
+adding 802 to 1013117, sum is 1013919
+adding 281 to 1013919, sum is 1014200
+adding 708 to 1014200, sum is 1014908
+
+
+Line 92
+
+adding 594 to 1014908, sum is 1015502
+adding 359 to 1015502, sum is 1015861
+adding 462 to 1015861, sum is 1016323
+adding 405 to 1016323, sum is 1016728
+adding 439 to 1016728, sum is 1017167
+adding 759 to 1017167, sum is 1017926
+adding 987 to 1017926, sum is 1018913
+adding 330 to 1018913, sum is 1019243
+
+
+Line 93
+
+93, -1 not in bounds
+92, -1 not in bounds
+94, -1 not in bounds
+adding 580 to 1019243, sum is 1019823
+adding 26 to 1019823, sum is 1019849
+adding 467 to 1019849, sum is 1020316
+adding 13 to 1020316, sum is 1020329
+adding 102 to 1020329, sum is 1020431
+adding 460 to 1020431, sum is 1020891
+adding 693 to 1020891, sum is 1021584
+
+
+Line 94
+
+adding 227 to 1021584, sum is 1021811
+adding 861 to 1021811, sum is 1022672
+adding 523 to 1022672, sum is 1023195
+adding 877 to 1023195, sum is 1024072
+adding 429 to 1024072, sum is 1024501
+adding 383 to 1024501, sum is 1024884
+94, 140 not in bounds
+93, 140 not in bounds
+95, 140 not in bounds
+
+
+Line 95
+
+adding 651 to 1024884, sum is 1025535
+adding 568 to 1025535, sum is 1026103
+adding 689 to 1026103, sum is 1026792
+adding 691 to 1026792, sum is 1027483
+adding 39 to 1027483, sum is 1027522
+adding 123 to 1027522, sum is 1027645
+adding 869 to 1027645, sum is 1028514
+adding 1 to 1028514, sum is 1028515
+
+
+Line 96
+
+adding 892 to 1028515, sum is 1029407
+adding 581 to 1029407, sum is 1029988
+adding 876 to 1029988, sum is 1030864
+adding 603 to 1030864, sum is 1031467
+adding 399 to 1031467, sum is 1031866
+adding 927 to 1031866, sum is 1032793
+
+
+Line 97
+
+adding 611 to 1032793, sum is 1033404
+adding 443 to 1033404, sum is 1033847
+adding 856 to 1033847, sum is 1034703
+adding 559 to 1034703, sum is 1035262
+adding 679 to 1035262, sum is 1035941
+adding 925 to 1035941, sum is 1036866
+adding 34 to 1036866, sum is 1036900
+
+
+Line 98
+
+adding 303 to 1036900, sum is 1037203
+adding 944 to 1037203, sum is 1038147
+adding 444 to 1038147, sum is 1038591
+adding 961 to 1038591, sum is 1039552
+adding 433 to 1039552, sum is 1039985
+adding 215 to 1039985, sum is 1040200
+adding 26 to 1040200, sum is 1040226
+adding 95 to 1040226, sum is 1040321
+adding 82 to 1040321, sum is 1040403
+
+
+Line 99
+
+adding 710 to 1040403, sum is 1041113
+adding 130 to 1041113, sum is 1041243
+adding 13 to 1041243, sum is 1041256
+adding 443 to 1041256, sum is 1041699
+adding 391 to 1041699, sum is 1042090
+adding 260 to 1042090, sum is 1042350
+adding 751 to 1042350, sum is 1043101
+adding 508 to 1043101, sum is 1043609
+adding 555 to 1043609, sum is 1044164
+
+
+Line 100
+
+adding 958 to 1044164, sum is 1045122
+adding 93 to 1045122, sum is 1045215
+adding 235 to 1045215, sum is 1045450
+adding 460 to 1045450, sum is 1045910
+adding 491 to 1045910, sum is 1046401
+adding 324 to 1046401, sum is 1046725
+adding 409 to 1046725, sum is 1047134
+adding 972 to 1047134, sum is 1048106
+adding 2 to 1048106, sum is 1048108
+
+
+Line 101
+
+adding 534 to 1048108, sum is 1048642
+adding 580 to 1048642, sum is 1049222
+adding 973 to 1049222, sum is 1050195
+adding 102 to 1050195, sum is 1050297
+adding 632 to 1050297, sum is 1050929
+adding 48 to 1050929, sum is 1050977
+
+
+Line 102
+
+adding 820 to 1050977, sum is 1051797
+adding 206 to 1051797, sum is 1052003
+adding 890 to 1052003, sum is 1052893
+adding 683 to 1052893, sum is 1053576
+adding 493 to 1053576, sum is 1054069
+adding 256 to 1054069, sum is 1054325
+adding 434 to 1054325, sum is 1054759
+adding 884 to 1054759, sum is 1055643
+
+
+Line 103
+
+adding 585 to 1055643, sum is 1056228
+adding 664 to 1056228, sum is 1056892
+adding 512 to 1056892, sum is 1057404
+adding 914 to 1057404, sum is 1058318
+adding 188 to 1058318, sum is 1058506
+adding 941 to 1058506, sum is 1059447
+
+
+Line 104
+
+adding 521 to 1059447, sum is 1059968
+adding 168 to 1059968, sum is 1060136
+adding 94 to 1060136, sum is 1060230
+adding 139 to 1060230, sum is 1060369
+adding 793 to 1060369, sum is 1061162
+adding 827 to 1061162, sum is 1061989
+adding 215 to 1061989, sum is 1062204
+adding 24 to 1062204, sum is 1062228
+adding 787 to 1062228, sum is 1063015
+
+
+Line 105
+
+adding 148 to 1063015, sum is 1063163
+adding 205 to 1063163, sum is 1063368
+adding 728 to 1063368, sum is 1064096
+adding 153 to 1064096, sum is 1064249
+adding 176 to 1064249, sum is 1064425
+adding 963 to 1064425, sum is 1065388
+adding 649 to 1065388, sum is 1066037
+adding 628 to 1066037, sum is 1066665
+adding 19 to 1066665, sum is 1066684
+
+
+Line 106
+
+adding 883 to 1066684, sum is 1067567
+adding 806 to 1067567, sum is 1068373
+adding 226 to 1068373, sum is 1068599
+adding 763 to 1068599, sum is 1069362
+adding 229 to 1069362, sum is 1069591
+adding 60 to 1069591, sum is 1069651
+
+
+Line 107
+
+adding 21 to 1069651, sum is 1069672
+adding 357 to 1069672, sum is 1070029
+adding 839 to 1070029, sum is 1070868
+adding 968 to 1070868, sum is 1071836
+adding 469 to 1071836, sum is 1072305
+adding 339 to 1072305, sum is 1072644
+
+
+Line 108
+
+adding 457 to 1072644, sum is 1073101
+adding 89 to 1073101, sum is 1073190
+adding 613 to 1073190, sum is 1073803
+adding 214 to 1073803, sum is 1074017
+adding 958 to 1074017, sum is 1074975
+adding 341 to 1074975, sum is 1075316
+adding 645 to 1075316, sum is 1075961
+adding 274 to 1075961, sum is 1076235
+adding 37 to 1076235, sum is 1076272
+adding 82 to 1076272, sum is 1076354
+adding 465 to 1076354, sum is 1076819
+
+
+Line 109
+
+adding 70 to 1076819, sum is 1076889
+adding 932 to 1076889, sum is 1077821
+adding 83 to 1077821, sum is 1077904
+adding 787 to 1077904, sum is 1078691
+adding 218 to 1078691, sum is 1078909
+adding 787 to 1078909, sum is 1079696
+adding 7 to 1079696, sum is 1079703
+adding 287 to 1079703, sum is 1079990
+
+
+Line 110
+
+adding 92 to 1079990, sum is 1080082
+adding 373 to 1080082, sum is 1080455
+adding 163 to 1080455, sum is 1080618
+adding 304 to 1080618, sum is 1080922
+adding 667 to 1080922, sum is 1081589
+adding 547 to 1081589, sum is 1082136
+adding 67 to 1082136, sum is 1082203
+
+
+Line 111
+
+adding 851 to 1082203, sum is 1083054
+adding 267 to 1083054, sum is 1083321
+adding 189 to 1083321, sum is 1083510
+adding 312 to 1083510, sum is 1083822
+adding 837 to 1083822, sum is 1084659
+adding 344 to 1084659, sum is 1085003
+adding 604 to 1085003, sum is 1085607
+adding 679 to 1085607, sum is 1086286
+
+
+Line 112
+
+adding 883 to 1086286, sum is 1087169
+adding 258 to 1087169, sum is 1087427
+adding 896 to 1087427, sum is 1088323
+adding 687 to 1088323, sum is 1089010
+adding 488 to 1089010, sum is 1089498
+adding 615 to 1089498, sum is 1090113
+
+
+Line 113
+
+adding 173 to 1090113, sum is 1090286
+adding 605 to 1090286, sum is 1090891
+adding 609 to 1090891, sum is 1091500
+adding 812 to 1091500, sum is 1092312
+adding 721 to 1092312, sum is 1093033
+adding 582 to 1093033, sum is 1093615
+adding 906 to 1093615, sum is 1094521
+adding 85 to 1094521, sum is 1094606
+adding 940 to 1094606, sum is 1095546
+adding 409 to 1095546, sum is 1095955
+adding 928 to 1095955, sum is 1096883
+
+
+Line 114
+
+adding 49 to 1096883, sum is 1096932
+adding 493 to 1096932, sum is 1097425
+adding 721 to 1097425, sum is 1098146
+adding 857 to 1098146, sum is 1099003
+adding 62 to 1099003, sum is 1099065
+
+
+Line 115
+
+adding 736 to 1099065, sum is 1099801
+adding 968 to 1099801, sum is 1100769
+adding 685 to 1100769, sum is 1101454
+adding 949 to 1101454, sum is 1102403
+adding 755 to 1102403, sum is 1103158
+adding 37 to 1103158, sum is 1103195
+adding 53 to 1103195, sum is 1103248
+
+
+Line 116
+
+116, -1 not in bounds
+115, -1 not in bounds
+117, -1 not in bounds
+adding 621 to 1103248, sum is 1103869
+adding 812 to 1103869, sum is 1104681
+adding 203 to 1104681, sum is 1104884
+adding 151 to 1104884, sum is 1105035
+adding 828 to 1105035, sum is 1105863
+adding 48 to 1105863, sum is 1105911
+adding 871 to 1105911, sum is 1106782
+adding 764 to 1106782, sum is 1107546
+adding 384 to 1107546, sum is 1107930
+adding 37 to 1107930, sum is 1107967
+adding 905 to 1107967, sum is 1108872
+adding 314 to 1108872, sum is 1109186
+
+
+Line 117
+
+adding 575 to 1109186, sum is 1109761
+adding 244 to 1109761, sum is 1110005
+adding 708 to 1110005, sum is 1110713
+adding 131 to 1110713, sum is 1110844
+adding 546 to 1110844, sum is 1111390
+adding 641 to 1111390, sum is 1112031
+adding 189 to 1112031, sum is 1112220
+
+
+Line 118
+
+adding 801 to 1112220, sum is 1113021
+adding 772 to 1113021, sum is 1113793
+adding 989 to 1113793, sum is 1114782
+adding 751 to 1114782, sum is 1115533
+adding 523 to 1115533, sum is 1116056
+adding 117 to 1116056, sum is 1116173
+adding 538 to 1116173, sum is 1116711
+
+
+Line 119
+
+adding 82 to 1116711, sum is 1116793
+adding 749 to 1116793, sum is 1117542
+adding 402 to 1117542, sum is 1117944
+adding 140 to 1117944, sum is 1118084
+adding 202 to 1118084, sum is 1118286
+adding 93 to 1118286, sum is 1118379
+adding 604 to 1118379, sum is 1118983
+adding 438 to 1118983, sum is 1119421
+adding 567 to 1119421, sum is 1119988
+119, 140 not in bounds
+118, 140 not in bounds
+120, 140 not in bounds
+
+
+Line 120
+
+adding 128 to 1119988, sum is 1120116
+adding 564 to 1120116, sum is 1120680
+adding 353 to 1120680, sum is 1121033
+adding 442 to 1121033, sum is 1121475
+adding 153 to 1121475, sum is 1121628
+adding 5 to 1121628, sum is 1121633
+adding 414 to 1121633, sum is 1122047
+
+
+Line 121
+
+adding 765 to 1122047, sum is 1122812
+adding 259 to 1122812, sum is 1123071
+adding 148 to 1123071, sum is 1123219
+adding 722 to 1123219, sum is 1123941
+adding 348 to 1123941, sum is 1124289
+adding 115 to 1124289, sum is 1124404
+adding 195 to 1124404, sum is 1124599
+adding 186 to 1124599, sum is 1124785
+adding 729 to 1124785, sum is 1125514
+adding 19 to 1125514, sum is 1125533
+adding 602 to 1125533, sum is 1126135
+
+
+Line 122
+
+adding 69 to 1126135, sum is 1126204
+adding 249 to 1126204, sum is 1126453
+adding 452 to 1126453, sum is 1126905
+adding 288 to 1126905, sum is 1127193
+adding 975 to 1127193, sum is 1128168
+adding 865 to 1128168, sum is 1129033
+adding 744 to 1129033, sum is 1129777
+adding 423 to 1129777, sum is 1130200
+adding 756 to 1130200, sum is 1130956
+
+
+Line 123
+
+adding 882 to 1130956, sum is 1131838
+adding 801 to 1131838, sum is 1132639
+adding 455 to 1132639, sum is 1133094
+adding 16 to 1133094, sum is 1133110
+adding 957 to 1133110, sum is 1134067
+adding 841 to 1134067, sum is 1134908
+adding 912 to 1134908, sum is 1135820
+adding 581 to 1135820, sum is 1136401
+adding 887 to 1136401, sum is 1137288
+adding 745 to 1137288, sum is 1138033
+adding 464 to 1138033, sum is 1138497
+
+
+Line 124
+
+adding 62 to 1138497, sum is 1138559
+adding 734 to 1138559, sum is 1139293
+adding 544 to 1139293, sum is 1139837
+adding 898 to 1139837, sum is 1140735
+adding 548 to 1140735, sum is 1141283
+adding 516 to 1141283, sum is 1141799
+adding 632 to 1141799, sum is 1142431
+
+
+Line 125
+
+adding 977 to 1142431, sum is 1143408
+adding 512 to 1143408, sum is 1143920
+adding 473 to 1143920, sum is 1144393
+adding 985 to 1144393, sum is 1145378
+adding 678 to 1145378, sum is 1146056
+adding 128 to 1146056, sum is 1146184
+adding 330 to 1146184, sum is 1146514
+
+
+Line 126
+
+adding 942 to 1146514, sum is 1147456
+adding 181 to 1147456, sum is 1147637
+adding 831 to 1147637, sum is 1148468
+adding 430 to 1148468, sum is 1148898
+adding 399 to 1148898, sum is 1149297
+adding 637 to 1149297, sum is 1149934
+adding 356 to 1149934, sum is 1150290
+adding 656 to 1150290, sum is 1150946
+adding 500 to 1150946, sum is 1151446
+adding 135 to 1151446, sum is 1151581
+adding 403 to 1151581, sum is 1151984
+
+
+Line 127
+
+adding 6 to 1151984, sum is 1151990
+adding 307 to 1151990, sum is 1152297
+adding 174 to 1152297, sum is 1152471
+adding 722 to 1152471, sum is 1153193
+adding 281 to 1153193, sum is 1153474
+adding 663 to 1153474, sum is 1154137
+adding 101 to 1154137, sum is 1154238
+
+
+Line 128
+
+adding 997 to 1154238, sum is 1155235
+adding 53 to 1155235, sum is 1155288
+adding 67 to 1155288, sum is 1155355
+adding 324 to 1155355, sum is 1155679
+adding 117 to 1155679, sum is 1155796
+adding 227 to 1155796, sum is 1156023
+adding 385 to 1156023, sum is 1156408
+adding 198 to 1156408, sum is 1156606
+128, 140 not in bounds
+127, 140 not in bounds
+129, 140 not in bounds
+
+
+Line 129
+
+adding 634 to 1156606, sum is 1157240
+adding 669 to 1157240, sum is 1157909
+adding 743 to 1157909, sum is 1158652
+adding 869 to 1158652, sum is 1159521
+adding 233 to 1159521, sum is 1159754
+adding 948 to 1159754, sum is 1160702
+adding 817 to 1160702, sum is 1161519
+
+
+Line 130
+
+adding 280 to 1161519, sum is 1161799
+adding 66 to 1161799, sum is 1161865
+adding 393 to 1161865, sum is 1162258
+adding 745 to 1162258, sum is 1163003
+adding 472 to 1163003, sum is 1163475
+adding 940 to 1163475, sum is 1164415
+adding 70 to 1164415, sum is 1164485
+adding 615 to 1164485, sum is 1165100
+
+
+Line 131
+
+adding 718 to 1165100, sum is 1165818
+adding 464 to 1165818, sum is 1166282
+adding 797 to 1166282, sum is 1167079
+adding 134 to 1167079, sum is 1167213
+adding 38 to 1167213, sum is 1167251
+adding 560 to 1167251, sum is 1167811
+adding 388 to 1167811, sum is 1168199
+adding 307 to 1168199, sum is 1168506
+adding 49 to 1168506, sum is 1168555
+
+
+Line 132
+
+adding 113 to 1168555, sum is 1168668
+adding 274 to 1168668, sum is 1168942
+adding 800 to 1168942, sum is 1169742
+adding 992 to 1169742, sum is 1170734
+adding 373 to 1170734, sum is 1171107
+adding 791 to 1171107, sum is 1171898
+adding 775 to 1171898, sum is 1172673
+adding 873 to 1172673, sum is 1173546
+adding 227 to 1173546, sum is 1173773
+adding 849 to 1173773, sum is 1174622
+adding 357 to 1174622, sum is 1174979
+
+
+Line 133
+
+adding 75 to 1174979, sum is 1175054
+adding 775 to 1175054, sum is 1175829
+adding 179 to 1175829, sum is 1176008
+adding 293 to 1176008, sum is 1176301
+adding 987 to 1176301, sum is 1177288
+
+
+Line 134
+
+adding 501 to 1177288, sum is 1177789
+adding 766 to 1177789, sum is 1178555
+adding 26 to 1178555, sum is 1178581
+adding 805 to 1178581, sum is 1179386
+adding 692 to 1179386, sum is 1180078
+adding 917 to 1180078, sum is 1180995
+adding 483 to 1180995, sum is 1181478
+adding 413 to 1181478, sum is 1181891
+
+
+Line 135
+
+adding 358 to 1181891, sum is 1182249
+adding 160 to 1182249, sum is 1182409
+adding 555 to 1182409, sum is 1182964
+adding 798 to 1182964, sum is 1183762
+adding 684 to 1183762, sum is 1184446
+adding 676 to 1184446, sum is 1185122
+adding 229 to 1185122, sum is 1185351
+adding 815 to 1185351, sum is 1186166
+135, 140 not in bounds
+134, 140 not in bounds
+136, 140 not in bounds
+
+
+Line 136
+
+adding 657 to 1186166, sum is 1186823
+adding 432 to 1186823, sum is 1187255
+adding 795 to 1187255, sum is 1188050
+adding 816 to 1188050, sum is 1188866
+adding 758 to 1188866, sum is 1189624
+adding 193 to 1189624, sum is 1189817
+adding 222 to 1189817, sum is 1190039
+adding 666 to 1190039, sum is 1190705
+
+
+Line 137
+
+adding 139 to 1190705, sum is 1190844
+adding 894 to 1190844, sum is 1191738
+adding 226 to 1191738, sum is 1191964
+adding 826 to 1191964, sum is 1192790
+adding 248 to 1192790, sum is 1193038
+adding 850 to 1193038, sum is 1193888
+adding 895 to 1193888, sum is 1194783
+adding 340 to 1194783, sum is 1195123
+adding 922 to 1195123, sum is 1196045
+
+
+Line 138
+
+adding 892 to 1196045, sum is 1196937
+adding 162 to 1196937, sum is 1197099
+adding 249 to 1197099, sum is 1197348
+adding 845 to 1197348, sum is 1198193
+adding 902 to 1198193, sum is 1199095
+adding 800 to 1199095, sum is 1199895
+
+
+Line 139
+
+140, 20 not in bounds
+140, 19 not in bounds
+140, 21 not in bounds
+140, 21 not in bounds
+adding 86 to 1199895, sum is 1199981
+140, 25 not in bounds
+140, 24 not in bounds
+140, 26 not in bounds
+140, 26 not in bounds
+140, 25 not in bounds
+140, 27 not in bounds
+140, 27 not in bounds
+140, 26 not in bounds
+140, 28 not in bounds
+140, 43 not in bounds
+140, 42 not in bounds
+140, 44 not in bounds
+140, 44 not in bounds
+140, 43 not in bounds
+140, 45 not in bounds
+140, 45 not in bounds
+140, 44 not in bounds
+140, 46 not in bounds
+140, 66 not in bounds
+140, 67 not in bounds
+140, 66 not in bounds
+140, 68 not in bounds
+140, 68 not in bounds
+140, 67 not in bounds
+140, 69 not in bounds
+adding 143 to 1199981, sum is 1200124
+140, 90 not in bounds
+140, 91 not in bounds
+140, 90 not in bounds
+140, 92 not in bounds
+140, 92 not in bounds
+140, 91 not in bounds
+140, 93 not in bounds
+adding 179 to 1200124, sum is 1200303
+140, 98 not in bounds
+140, 97 not in bounds
+140, 99 not in bounds
+140, 99 not in bounds
+140, 98 not in bounds
+140, 100 not in bounds
+140, 100 not in bounds
+140, 99 not in bounds
+140, 101 not in bounds
+140, 124 not in bounds
+140, 125 not in bounds
+140, 124 not in bounds
+140, 126 not in bounds
+140, 126 not in bounds
+140, 125 not in bounds
+140, 127 not in bounds
+adding 419 to 1200303, sum is 1200722
+140, 136 not in bounds
+140, 135 not in bounds
+140, 137 not in bounds
+140, 137 not in bounds
+140, 136 not in bounds
+140, 138 not in bounds
+140, 138 not in bounds
+140, 137 not in bounds
+140, 139 not in bounds
+
+
+Sum of parts are: 1200722
