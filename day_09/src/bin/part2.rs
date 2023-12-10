@@ -65,18 +65,17 @@ fn fill_history_vector(history_vector: &mut Vec<Vec<i32>>) {
     // discard the zero array
     // and the first (last) to avoid out of bounds error
     for i in (1..vec_length).rev() {
-        let sequence_to_add_to_len = history_vector[i - 1].len() - 1;
-        let sequence_to_add_len = history_vector[i].len() - 1;
+        // let sequence_to_add_to_len = history_vector[i - 1].len() - 1;
+        // let sequence_to_add_len = history_vector[i].len() - 1;
+        let value_to_add_to = history_vector[i - 1][0];
+        let value_to_add = history_vector[i][0];
 
-        let value_to_add_to = history_vector[i - 1][sequence_to_add_to_len];
-        let value_to_add = history_vector[i][sequence_to_add_len];
-
-        history_vector[i - 1].push(value_to_add + value_to_add_to);
+        history_vector[i - 1].insert(0, (-1 * value_to_add) + value_to_add_to);
     }
 }
 
 fn get_prediction(sequence: &Vec<i32>) -> i32 {
-    return *sequence.last().unwrap();
+    return sequence[0];
 }
 
 fn main() {
@@ -132,6 +131,16 @@ mod tests {
                     vec![0, 0, 0],
                 ],
             ),
+            (
+                extract_numbers("10 13 16 21 30 45"),
+                vec![
+                    vec![10, 13, 16, 21, 30, 45],
+                    vec![3, 3, 5, 9, 15],
+                    vec![0, 2, 4, 6],
+                    vec![2, 2, 2],
+                    vec![0, 0],
+                ],
+            ),
         ];
 
         for (initial_history, expected_history) in tests {
@@ -143,28 +152,28 @@ mod tests {
     fn test_fill_history_vector() {
         let tests = vec![
             (
-                produce_history_vector(extract_numbers("0 3 6 9 12 15")),
-                vec![
-                    vec![0, 3, 6, 9, 12, 15, 18],
-                    vec![3, 3, 3, 3, 3, 3],
-                    vec![0, 0, 0, 0, 0],
-                ],
-            ),
-            (
                 produce_history_vector(extract_numbers("10 13 16 21 30 45")),
                 vec![
-                    vec![10, 13, 16, 21, 30, 45, 68],
-                    vec![3, 3, 5, 9, 15, 23],
-                    vec![0, 2, 4, 6, 8],
+                    vec![5, 10, 13, 16, 21, 30, 45],
+                    vec![5, 3, 3, 5, 9, 15],
+                    vec![-2, 0, 2, 4, 6],
                     vec![2, 2, 2, 2],
                     vec![0, 0, 0],
                 ],
             ),
             (
+                produce_history_vector(extract_numbers("0 3 6 9 12 15")),
+                vec![
+                    vec![-3, 0, 3, 6, 9, 12, 15],
+                    vec![3, 3, 3, 3, 3, 3],
+                    vec![0, 0, 0, 0, 0],
+                ],
+            ),
+            (
                 produce_history_vector(extract_numbers("1 3 6 10 15 21")),
                 vec![
-                    vec![1, 3, 6, 10, 15, 21, 28],
-                    vec![2, 3, 4, 5, 6, 7],
+                    vec![0, 1, 3, 6, 10, 15, 21],
+                    vec![1, 2, 3, 4, 5, 6],
                     vec![1, 1, 1, 1, 1],
                     vec![0, 0, 0, 0],
                 ],
@@ -173,7 +182,7 @@ mod tests {
 
         for (mut input, expected) in tests {
             fill_history_vector(&mut input);
-            assert_eq!(input, expected)
+            assert_eq!(input, expected);
         }
     }
 }
