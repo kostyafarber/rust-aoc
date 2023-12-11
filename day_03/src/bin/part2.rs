@@ -1,3 +1,5 @@
+use std::collections::HashSet;
+
 struct Bounds {
     left: i32,
     right: i32,
@@ -6,6 +8,7 @@ struct Bounds {
 }
 struct Puzzle {
     grid: Vec<Vec<char>>,
+    seen_positions: HashSet<(usize, usize)>,
 }
 
 impl Puzzle {
@@ -16,13 +19,18 @@ impl Puzzle {
             up: 0,
             down: (self.grid.len()) as i32,
         };
-        if x < bounds.left || x >= bounds.right || y < bounds.up || y >= bounds.down {
+        if x < bounds.left
+            || x >= bounds.right
+            || y < bounds.up
+            || y >= bounds.down
+            || self.seen_positions.contains(&(x as usize, y as usize))
+        {
             return false;
         }
         return true;
     }
 
-    pub fn check_adjacent(&self, x: i32, y: i32) -> Vec<i32> {
+    pub fn check_adjacent(&mut self, x: i32, y: i32) -> Vec<i32> {
         let pairs: Vec<(i32, i32)> = vec![
             (1, 0),
             (0, 1),
@@ -42,12 +50,12 @@ impl Puzzle {
             if self.in_bounds(new_x, new_y) {
                 let pos = self.grid[new_y as usize][new_x as usize];
                 if pos.is_digit(10) {
-                    let line = &self.grid[new_y as usize];
-                    let number = self.get_number(line, x as usize);
+                    let number = self.get_number(new_y as usize, new_x as usize);
                     numbers.push(number);
                 }
             }
         }
+        self.seen_positions.clear();
         return numbers;
     }
 
@@ -56,7 +64,8 @@ impl Puzzle {
         return number.parse::<i32>().unwrap();
     }
 
-    fn get_number(&self, line: &Vec<char>, x: usize) -> i32 {
+    fn get_number(&mut self, y: usize, x: usize) -> i32 {
+        let line = &self.grid[y];
         let left = &line[0..x + 1];
         let right = &line[x..line.len()];
 
@@ -74,10 +83,18 @@ impl Puzzle {
             line.len() - 1
         };
 
+        for x in start..end - 1 {
+            self.seen_positions.insert((x, y));
+        }
+
         if start == end {
             return self.parse_number(vec![line[start]]);
         }
         return self.parse_number(line[start..end].to_vec());
+    }
+
+    fn get_gear_ratio(&self, numbers: Vec<i32>) -> i32 {
+        return numbers[0] * numbers[1];
     }
 }
 
@@ -94,16 +111,30 @@ fn make_grid(input: &str) -> Vec<Vec<char>> {
 fn main() {
     let input = include_str!("input.txt");
 
-    let puzzle = Puzzle {
+    let mut puzzle = Puzzle {
         grid: make_grid(input),
+        seen_positions: HashSet::new(),
     };
+
+    let mut sum_gear_ratios = 0;
+    for y in 0..puzzle.grid.len() {
+        for x in 0..puzzle.grid[y].len() {
+            let pos = puzzle.grid[y][x];
+            if pos == '*' {
+                let numbers = puzzle.check_adjacent(x as i32, y as i32);
+                if numbers.len() == 2 {
+                    let gear_ratio = puzzle.get_gear_ratio(numbers);
+                    sum_gear_ratios += gear_ratio;
+                }
+            }
+        }
+    }
+    println!("Sum of gear ratios: {}", sum_gear_ratios);
 }
 
 #[cfg(test)]
 
 mod tests {
-    use core::num;
-
     use super::*;
 
     #[test]
@@ -141,11 +172,13 @@ mod tests {
             ),
         ];
 
-        let puzzle = Puzzle {
-            grid: vec![vec!['c']],
-        };
         for (line, idx, expected, desc) in tests {
-            assert_eq!(puzzle.get_number(&line, idx), expected, "{}", desc);
+            let mut puzzle = Puzzle {
+                grid: vec![],
+                seen_positions: HashSet::new(),
+            };
+            puzzle.grid.push(line);
+            assert_eq!(puzzle.get_number(0, idx), expected, "{}", desc);
         }
     }
 
@@ -155,13 +188,46 @@ mod tests {
                            ..................*...................\n\
                            ...................102................\n";
 
-        let puzzle = Puzzle {
+        let mut puzzle = Puzzle {
             grid: make_grid(input),
+            seen_positions: HashSet::new(),
         };
 
         let numbers = puzzle.check_adjacent(18, 1);
         let expected = vec![58, 102];
 
         assert_eq!(expected, numbers);
+    }
+
+    fn check_solve_test_puzzle() {
+        let input = "
+            467..114..\n\
+            ...*......\n\
+            ..35..633.\n\
+            ......#...\n\
+            617*......\n\
+            .....+.58.\n\
+            ..592.....\n\
+            ......755.\n\
+            ...$.*....\n\
+            .664.598..\n";
+
+        let mut puzzle = Puzzle {
+            grid: make_grid(input),
+            seen_positions: HashSet::new(),
+        };
+
+        let mut sum_gear_ratios = 0;
+        for y in 0..puzzle.grid.len() {
+            for x in 0..puzzle.grid[y].len() {
+                let pos = puzzle.grid[y][x];
+                if pos == '*' {
+                    let numbers = puzzle.check_adjacent(x as i32, y as i32);
+                    let gear_ratio = puzzle.get_gear_ratio(numbers);
+                    sum_gear_ratios += gear_ratio;
+                }
+            }
+        }
+        assert_eq!(sum_gear_ratios, 467835);
     }
 }
