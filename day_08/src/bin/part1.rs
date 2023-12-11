@@ -13,7 +13,6 @@ impl Node {
 }
 
 struct Network {
-    steps: Vec<char>,
     step_cycle: Cycle<IntoIter<char>>,
     current_step: char,
     current_node: Rc<Node>,
@@ -32,7 +31,6 @@ impl Network {
 
         let mut new_network = Network {
             network: HashMap::new(),
-            steps,
             step_cycle: cycler,
             current_step: first_step,
             current_node: initial_node,
@@ -101,7 +99,7 @@ mod tests {
             GGG = (GGG, GGG)\n\
             ZZZ = (ZZZ, ZZZ)";
 
-        let mut network = Network::new(input);
+        let network = Network::new(input);
         for _ in 0..3 {}
         assert_eq!(network.current_step, 'R');
     }
